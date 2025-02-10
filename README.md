@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Abed Midani 
-![78813062223466593](https://github.com/user-attachments/assets/4b71dc07-e269-4106-bee3-3ceba3f9585b)
+![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif?raw=true)
+
 
 ## 🚀 About Me
 
@@ -21,7 +22,8 @@ skills = {
     much_more: ['is yet to come', '...']
 };
 ```
-![212750147-854a394f-fee9-4080-9770-78a4b7ece53f](https://github.com/user-attachments/assets/39f9140c-7764-4a00-ba3c-4237b6e2fbba)
+![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/BENEFITS%20OF%20CUSTOM%20SOFTWARE%20DEVELOPMENT%20OVER%20OFF-THE-SHELF%20SOFTWARE%20WHEN%20WORKING%20FROM%20HOME.gif?raw=true)
+
 
 ### 🌱 Current Focus
 
@@ -30,12 +32,11 @@ skills = {
 - Building Scalable Applications
 - Assimilating DevOps Best Practices
 
-![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/74b1e4f9-6f81-457f-86d3-e9fe1be6a660)
-
+![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif?raw=true)
 
 ⭐️ From [midani-47](https://github.com/midani-47)
 
-![BENEFITS OF CUSTOM SOFTWARE DEVELOPMENT OVER OFF-THE-SHELF SOFTWARE WHEN WORKING FROM HOME](https://github.com/user-attachments/assets/31fbbb6a-3dc2-491c-8ae8-6ef01d94c144)
+![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/Tech%20Technology%20GIF%20by%20The%20Coding%20Space%20RD.gif?raw=true)
 
 <!--
 **midani-47/midani-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
