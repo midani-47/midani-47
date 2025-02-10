@@ -1,13 +1,12 @@
 # 👋 Hello, I'm Abed Midani 
-![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif?raw=true)
 
 
 ## 🚀 About Me
 
 I'm a Computer Science student at IMC Krems with a genuine passion for Data Science, algorithms, and problem-solving. Currently in my fourth semester, I enjoy tackling complex challenges, automating functinoalities, optimizing systems, and continuously learning new technologies. The combination of specializing and expanding my scope of experience keeps me busy all day everyday. My goal is to utilize my knowledge, time and energy in contributing to innovative projects that make a positive impact.
 
+![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif?raw=true)
 
-![221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc](https://github.com/user-attachments/assets/61a8e0e1-8000-4871-a386-b596903e94fb)
 
 
 ### 🛠️ Tech Stack
