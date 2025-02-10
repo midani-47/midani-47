@@ -12,11 +12,11 @@ I'm a Computer Science student at IMC Krems with a genuine passion for Data Scie
 
 ```javascript
 skills = {
-    languages: ['Python', 'R', 'C'],
-    databases: ['Neo4j', 'MongoDB', 'SQL'],
-    backend: ['Node.js', 'Django', 'Flask'],
+    languages:  ['Python', 'R', 'C'],
+    backend: ['Nodejs', 'Django', 'flask'],
+    databases: ['Neo4j', 'MongoDB',  'mySQL'],
     toolkit: ['Git', 'Docker', 'AWS', 'Cursor'],
-    practices: ['Agile', 'CI/CD', 'Test-Driven Development']
+    practices:['Agile', 'CI/CD', 'Test-Driven Dev.']
     much_more: ['is yet to come', '...']
 };
 ```
