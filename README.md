@@ -12,7 +12,7 @@ I'm a Computer Science student at IMC Krems with a genuine passion for Data Scie
 
 ```javascript
 skills = {
-    languages:  ['Python', 'R', 'C'],
+    languages:  ['Python', 'R', 'Java'],
     backend: ['Nodejs', 'Django', 'flask'],
     databases: ['Neo4j', 'MongoDB',  'mySQL'],
     toolkit: ['Git', 'Docker', 'AWS', 'Cursor'],
