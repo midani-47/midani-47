@@ -22,22 +22,29 @@
           <mxGeometry x="260" y="280" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-19" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="190" width="300" height="200" as="geometry" />
+          <mxGeometry x="200" y="190" width="550" height="280" as="geometry" />
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-20" value="" style="html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="30" height="30" as="geometry" />
+          <mxGeometry x="180" y="410" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-21" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" source="VDTbSuDfrLie9FOIhOC3-20" target="VDTbSuDfrLie9FOIhOC3-22" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="425" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-22" value="" style="shape=requiredInterface;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="350" width="5" height="10" as="geometry" />
+          <mxGeometry x="370" y="420" width="5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-23" value="" style="html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="275" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-25" value="" style="shape=requiredInterface;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="230" width="5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VDTbSuDfrLie9FOIhOC3-28" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="395" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
