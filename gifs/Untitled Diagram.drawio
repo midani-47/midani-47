@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="Y1ZIsI3cRYYdyz1xf9G5">
-    <mxGraphModel dx="990" dy="892" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="light-dark(#FFFFFF,#1A1A1A)" math="0" shadow="0">
+    <mxGraphModel dx="1196" dy="994" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="light-dark(#FFFFFF,#1A1A1A)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="146" y="255" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Central user login and authorization management.&lt;br&gt;2. Central master data repository (customer database).&lt;br&gt;3. Service for sending notifications (push notifications and/or e-mail) to end-users.&lt;br&gt;4. Service for computation-intensive calculations (ML-based credit card fraud detection).&lt;br&gt;5. Service for storing the training data and predictions of the models.&lt;br&gt;6. Web user interface.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-132" width="1020" height="110" as="geometry" />
+          <mxGeometry x="210" y="-162" width="1020" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VDTbSuDfrLie9FOIhOC3-19" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="7" width="850" height="537" as="geometry" />
@@ -62,9 +62,9 @@
             <mxPoint x="343" y="426" as="sourcePoint" />
             <mxPoint x="535" y="462.00000000000045" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="435" y="425" />
-              <mxPoint x="435" y="461" />
+              <mxPoint x="390" y="461" />
               <mxPoint x="492" y="461" />
+              <mxPoint x="492" y="462" />
             </Array>
           </mxGeometry>
         </mxCell>
