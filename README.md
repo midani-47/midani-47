@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at IMC Krems with a genuine passion for Data Science, algorithms, and problem-solving. Currently in my fourth semester, I enjoy tackling complex challenges, automating functinoalities, optimizing systems, and continuously learning new technologies. The combination of specializing and expanding my scope of experience keeps me busy all day everyday. My goal is to utilize my knowledge, time and energy in contributing to innovative projects that make a positive impact.
+I'm a Computer Scientist specialized in Data Science, Machine Learning, and BioInformatics. I enjoy tackling complex challenges, automating functinoalities, optimizing systems, and continuously learning new technologies. The combination of specializing and expanding my scope of experience keeps me busy all day everyday. When I utilize my experience and passion, time and energy spent in contributing to projects pass productively with pleasure.
 
 ![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif?raw=true)
 
@@ -15,7 +15,7 @@ skills = {
     languages:  ['Python', 'R', 'Java'],
     backend: ['Nodejs', 'Django', 'flask'],
     databases: ['Neo4j', 'MongoDB',  'mySQL'],
-    toolkit: ['Git', 'Docker', 'AWS', 'Cursor'],
+    toolkit: ['Git', 'Docker', 'AWS', 'PowerBI'],
     practices:['Agile', 'CI/CD', 'Test-Driven Dev.']
     much_more: ['is yet to come', '...']
 };
