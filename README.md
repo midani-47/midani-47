@@ -32,7 +32,9 @@ skills = {
 
 ![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif?raw=true)
 
-⭐️ From [midani-47](https://github.com/midani-47)
+<!--
+⭐️ From [midani-47](https://github.com/midani-47)-->
+
 
 ![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/Tech%20Technology%20GIF%20by%20The%20Coding%20Space%20RD.gif?raw=true)
 
