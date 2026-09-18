@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Scientist specialized in Data Science, Machine Learning, and BioInformatics. I enjoy tackling complex challenges, automating functinoalities, optimizing systems, and continuously learning new technologies. The combination of specializing and expanding my scope of experience keeps me busy all day everyday. When I utilize my experience and passion, time and energy spent in contributing to projects pass productively with pleasure.
+I'm a Data Scientist specialized in _Bioinformatics_ and _Machine Learning_. I enjoy automating functinoalities, optimizing systems, and continuously learning new stuff. Passionate about specializing in _OMICS Technologies & Data Science in Biomedicine_. The combination of specializing and expanding my scope of experience keeps me busy and occupies my curiosity all day everyday. When I utilize my experience and passion, time and energy spent in contributing to projects pass productively with pleasure.
 
 ![GIF](https://github.com/midani-47/midani-47/blob/main/gifs/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif?raw=true)
 
